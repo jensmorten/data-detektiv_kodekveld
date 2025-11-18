@@ -9,7 +9,7 @@ Repo for kodekveld i Bouvet https://event.bouvet.no/event/e020398f-d768-445e-893
 Beregn gjennomsnitt, median og standardavvik for alder og lønn, og lag histogrammer. Finnes det noen uvanlige verdier?
 
 2. Jakten på korrelasjoner:  
-Finn de tre sterkeste korrelasjonene mellom numeriske variabler. Hvilke kan være nyttige for prediksjon?
+Finn de tre sterkeste korrelasjonene mellom numeriske variabler. Hvilke kan være nyttige for prediksjon? https://www.tylervigen.com/spurious-correlations
 
 3. Simpsons paradox:  
 Finn korrelasjon alder og lønn for alle og for øyefarge, og avdeling. Er simpsons paradoks gjeldende? 
