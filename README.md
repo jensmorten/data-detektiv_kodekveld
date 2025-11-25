@@ -12,7 +12,7 @@ Beregn gjennomsnitt, median og standardavvik for alder og lønn, og lag histogra
 Finn de tre sterkeste korrelasjonene mellom numeriske variabler. Hvilke kan være nyttige for prediksjon? https://www.tylervigen.com/spurious-correlations
 
 3. Simpsons paradox:  
-Finn korrelasjon alder og lønn for alle og for øyefarge, og avdeling. Er simpsons paradoks gjeldende? 
+Finn mellom lønn og ansiennitet per avdeling. Er simpsons paradoks gjeldende? 
 
 4. Bygg en enkel regresjon:  
 Bygg en lineær regresjonsmodell som predikerer lønn. Hvilke forklaringsvariabler velger du? 
