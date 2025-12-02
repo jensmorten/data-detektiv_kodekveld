@@ -16,7 +16,6 @@ st.caption("Rangert etter forklaringsgrad (R²)")
 # --------------------------------------------------
 # Last inn data
 # --------------------------------------------------
-@st.cache_data
 def load_data():
     df = pd.read_csv("resultat.csv", sep=",")
     return df
