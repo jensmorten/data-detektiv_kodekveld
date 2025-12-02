@@ -3,7 +3,6 @@
 
 # Sensitive data
 test_fasit.csv
-test_fasit.enc
 
 # Python cache
 __pycache__/
