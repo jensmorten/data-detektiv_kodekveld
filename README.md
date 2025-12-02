@@ -9,10 +9,16 @@ Repo for kodekveld i Bouvet https://event.bouvet.no/event/e020398f-d768-445e-893
 Beregn gjennomsnitt, median og standardavvik for alder og lønn, og lag histogrammer. Finnes det noen uvanlige verdier?
 
 2. Jakten på korrelasjoner:  
-Finn de tre sterkeste korrelasjonene mellom numeriske variabler. Hvilke kan være nyttige for prediksjon? https://www.tylervigen.com/spurious-correlations
+Finn de tre sterkeste korrelasjonene mellom lønn og numeriske variabler. Hvilke kan være nyttige for prediksjon?
+pass på: https://www.tylervigen.com/spurious-correlations
 
-3. Simpsons paradox:  
+4. Simpsons paradox:  
 Finn mellom lønn og ansiennitet per avdeling. Er simpsons paradoks gjeldende? 
 
-4. Bygg en enkel regresjon:  
-Bygg en lineær regresjonsmodell som predikerer lønn. Hvilke forklaringsvariabler velger du? 
+Konkurrase_del. 
+5. Bygg en enkel regresjon:  
+Bygg en lineær regresjonsmodell som predikerer lønn. Hvilke forklaringsvariabler velger du? Lever inn din .csv-fil med prediksjoner 
+
+
+6. (ekstra)
+Bygg en avansert modell som predikerer lønn. 
