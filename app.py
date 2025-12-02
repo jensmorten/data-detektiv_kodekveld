@@ -57,7 +57,7 @@ for i in range(min(3, len(df))):
             background-color: #f5f5f5;
             ">
             <h4 style="margin:0;">{medal} {row['Navn']}</h4>
-            <p style="margin:0;">R² = <b>{row['Resultat_(R2)']:.4f}</b></p>
+            <p style="margin:0;">R² = <b>{row['Resultat_R2']:.4f}</b></p>
         </div>
         """,
         unsafe_allow_html=True
@@ -69,7 +69,7 @@ for i in range(min(3, len(df))):
 st.subheader("📋 Full highscore")
 
 st.dataframe(
-    df[["Plass", "Navn", "Resultat_(R2)"]],
+    df[["Plass", "Navn", "Resultat_R2"]],
     use_container_width=True,
     hide_index=True
 )
