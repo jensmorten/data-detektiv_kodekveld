@@ -18,12 +18,12 @@ st.caption("Rangert etter forklaringsgrad (R²)")
 # --------------------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("resultat.csv")
+    df = pd.read_csv("resultat.csv", sep=",")
     return df
 
 df = load_data()
 
-required_cols = {"Navn", "Resultat_(R2)"}
+required_cols = {"Navn", "Resultat_R2"}
 if not required_cols.issubset(df.columns):
     st.error(f"CSV må innehalde kolonnene: {required_cols}")
     st.stop()
@@ -32,7 +32,7 @@ if not required_cols.issubset(df.columns):
 # Sorter og rydd
 # --------------------------------------------------
 df = (
-    df.sort_values("Resultat_(R2)", ascending=False)
+    df.sort_values("Resultat_R2", ascending=False)
       .reset_index(drop=True)
 )
 
