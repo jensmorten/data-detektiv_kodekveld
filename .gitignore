@@ -1,0 +1,17 @@
+# Environment files
+.env
+
+# Sensitive data
+test_fasit.csv
+test_fasit.enc
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
