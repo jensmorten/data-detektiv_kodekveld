@@ -5,7 +5,7 @@ import pandas as pd
 # App-oppsett
 # --------------------------------------------------
 st.set_page_config(
-    page_title="🏆 Modell Highscore",
+    page_title="🏆 Data-detektiv kodekveld",
     page_icon="🏆",
     layout="centered",
 )
@@ -78,3 +78,26 @@ st.dataframe(
 # Footer
 # --------------------------------------------------
 st.caption("ℹ️ Høgare R² betyr betre modell")
+st.markdown(
+"""
+**Verdiområde**  
+Den beste mulige R²-verdien er **1,0**, som betyr perfekt tilpasning der modellen forklarer all variasjon i den avhengige variabelen.  
+En R²-verdi på **0,0** betyr at modellen ikke forklarer noe av variasjonen – den gjør det ikke bedre enn en konstant modell som alltid predikerer gjennomsnittet.  
+R² kan også være **negativ** hvis modellen presterer dårligere enn en slik konstant modell.
+
+**Tolkning**  
+En R²-verdi på for eksempel **0,83** betyr at **83 % av variasjonen** i den avhengige variabelen forklares av de uavhengige variablene i modellen.
+
+**Beregning**  
+Matematisk beregnes R² som:
+
+\\[
+R^2 = 1 - \\frac{SS_{res}}{SS_{tot}}
+\\]
+
+der \(SS_{res}\) er summen av kvadrerte residualer  
+(forskjellen mellom faktiske og predikerte verdier), og  
+\(SS_{tot}\) er total varians  
+(forskjellen mellom faktiske verdier og gjennomsnittet).
+"""
+)
