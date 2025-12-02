@@ -5,7 +5,7 @@ import pandas as pd
 # App-oppsett
 # --------------------------------------------------
 st.set_page_config(
-    page_title="🏆 Data-detektiv kodekveld",
+    page_title="Data-detektiv kodekveld",
     page_icon="🏆",
     layout="centered",
 )
@@ -112,10 +112,8 @@ st.latex(r"""
 
 SS_{\text{res}} = \text{summen av kvadrerte residualer}
 \\
-\quad (\text{forskjellen mellom faktiske og predikerte verdier})
 \\[0.6em]
 
 SS_{\text{tot}} = \text{total varians}
 \\
-\quad (\text{forskjellen mellom faktiske verdier og gjennomsnittet})
 """)
