@@ -87,7 +87,7 @@ for k, v in metrics.items():
     if k == "R2":
         print(f"{k:10s}: {v:.4f}")
     else:
-        print(f"{k:10s}: {v:,.2f}")
+        print(f"{k:10s}: {v:,.0f}")
 
 print(f"\nTal observasjonar: {len(y_true)}")
 
