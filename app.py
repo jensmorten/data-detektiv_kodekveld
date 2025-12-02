@@ -35,6 +35,14 @@ df = (
       .reset_index(drop=True)
 )
 
+beste_r2 = df.iloc[0]["Resultat_R2"]
+
+if "beste_r2" not in st.session_state:
+    st.session_state.beste_r2 = beste_r2
+else:
+    if beste_r2 > st.session_state.beste_r2:
+        st.balloons()
+        st.session_state.beste_r2 = beste_r2
 df["Plass"] = df.index + 1
 
 # --------------------------------------------------
