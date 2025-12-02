@@ -19,6 +19,7 @@ Konkurrase_del.
 5. Bygg en enkel regresjon:  
 Bygg en lineær regresjonsmodell som predikerer lønn. Hvilke forklaringsvariabler velger du? Lever inn din .csv-fil med prediksjoner 
 
+Følg med på https://datadetektivkodekveld.streamlit.app/ for vinnaren. 
 
 6. (ekstra)
 Bygg en avansert modell som predikerer lønn. 
