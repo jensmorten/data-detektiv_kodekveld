@@ -13,7 +13,7 @@ Finn de tre sterkeste korrelasjonene mellom lønn og numeriske variabler. Hvilke
 pass på! https://www.tylervigen.com/spurious-correlations
 
 4. Simpsons paradox:  
-Finn mellom lønn og ansiennitet per avdeling. Er simpsons paradoks gjeldende? 
+Finn sammenhengen mellom lønn og ansiennitet per avdeling. Er simpsons paradoks gjeldende? 
 
 🥇 Konkurrase-del <br>
 
