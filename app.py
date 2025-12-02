@@ -107,13 +107,15 @@ st.latex(r"""
 R^2 = 1 - \frac{SS_{\text{res}}}{SS_{\text{tot}}}
 """)
 
-st.markdown(
-r"""
-der:
+st.latex(r"""
+\text{der:} \\[0.3em]
 
-- \(SS_{\text{res}}\) er summen av kvadrerte residualer  
-  (forskjellen mellom faktiske og predikerte verdier)
-- \(SS_{\text{tot}}\) er total varians  
-  (forskjellen mellom faktiske verdier og gjennomsnittet)
-"""
-)
+SS_{\text{res}} = \text{summen av kvadrerte residualer}
+\\
+\quad (\text{forskjellen mellom faktiske og predikerte verdier})
+\\[0.6em]
+
+SS_{\text{tot}} = \text{total varians}
+\\
+\quad (\text{forskjellen mellom faktiske verdier og gjennomsnittet})
+""")
