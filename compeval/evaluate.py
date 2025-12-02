@@ -76,10 +76,6 @@ def regression_metrics(y_true, y_pred):
         "MAPE (%)": np.mean(np.abs((y_true - y_pred) / y_true)) * 100
     }
 
-
-
-
-
 y_pred, y_true = load_and_validate(pred_path, fasit_enc_path)
 metrics = regression_metrics(y_true, y_pred)
 
