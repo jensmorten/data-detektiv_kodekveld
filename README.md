@@ -4,13 +4,18 @@ Repo for kodekveld i Bouvet https://event.bouvet.no/event/e020398f-d768-445e-893
 
 
 
-🔍 Datadetektivens oppgaver
+🔍 Datadetektivens oppgaver 
+Analyser dette datasettet "lønnstatsitikk for Bouvet development and insulting AS":  https://raw.githubusercontent.com/jensmorten/data-detektiv_kodekveld/refs/heads/main/data/data2.csv
+
 1. Beskrivende statistikk:  
-Beregn gjennomsnitt, median og standardavvik for alder og lønn, og lag histogrammer. Finnes det noen uvanlige verdier?
+Beregn gjennomsnitt, median og standardavvik for "alder", "lonn", "utdanning", "ansiennitet", "sko_str","prestasjonsscore", og lag histogrammer. Finnes det noen uvanlige verdier?
 
 2. Jakten på korrelasjoner:  
-Finn de tre sterkeste korrelasjonene mellom lønn og numeriske variabler. Hvilke kan være nyttige for prediksjon?
+Finn de tre sterkeste korrelasjonene mellom lønn og numeriske variabler. Hvilke kan være nyttige for prediksjon?  
 pass på! https://www.tylervigen.com/spurious-correlations
+
+3. Andre variabler:
+Hva slags datatyper er er_leder og favorittfarge? Hvordan vil du inkludere disse i analysen? 
 
 4. Simpsons paradox:  
 Finn sammenhengen mellom lønn og ansiennitet per avdeling. Er simpsons paradoks gjeldende? 
