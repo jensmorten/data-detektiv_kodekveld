@@ -2,12 +2,12 @@
 Vi bruker denne kvelden på å legge vekt på det ekte data-detektiver alltid gjør først: undersøke åstedet, forstå sporene og finne ut hva dataene faktisk prøver å fortelle oss. Først når vi har god kunnskap om datasettet går vi videre til konkurranse-delen. 
 
 🔍 Datadetektivens oppgaver: <br> <br>
-Analyser datasettet dette datasettet med lønnsstatistikk:  https://raw.githubusercontent.com/jensmorten/data-detektiv_kodekveld/refs/heads/main/data/data2.csv
+Analyser dette oppdikta datasettet med lønnsstatistikk:  https://raw.githubusercontent.com/jensmorten/data-detektiv_kodekveld/refs/heads/main/data/data2.csv
 <br> <br>
 Oppgavene kan løses i Excel, Python eller hvilket som helst verktøy du er komfortabel med. 
 <br> <br>
 1. Beskrivende statistikk:  
-Beregn gjennomsnitt, median og standardavvik for "alder", "lonn", "utdanning", "ansiennitet", "sko_str","prestasjonsscore", og lag histogrammer. Finnes det noen uvanlige verdier?
+Beregn gjennomsnitt, median og standardavvik for "alder", "lonn", "utdanning", "ansiennitet", "sko_str","prestasjonsscore", og lag histogrammer. Finnes det noen mistenkelige verdier?
 
 2. Jakten på korrelasjoner:  
 Finn de tre sterkeste korrelasjonene mellom lønn og numeriske variabler. Hvilke kan være nyttige for prediksjon?  
