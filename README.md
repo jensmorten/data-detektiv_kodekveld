@@ -6,7 +6,9 @@ Repo for kodekveld i Bouvet https://event.bouvet.no/event/e020398f-d768-445e-893
 
 🔍 Datadetektivens oppgaver: <br> <br>
 Analyser datasettet dette datasettet med lønnsstatistikk:  https://raw.githubusercontent.com/jensmorten/data-detektiv_kodekveld/refs/heads/main/data/data2.csv
-
+<br> <br>
+Bruk det verktøyet du selv er best kjent med. 
+<br> <br>
 1. Beskrivende statistikk:  
 Beregn gjennomsnitt, median og standardavvik for "alder", "lonn", "utdanning", "ansiennitet", "sko_str","prestasjonsscore", og lag histogrammer. Finnes det noen uvanlige verdier?
 
