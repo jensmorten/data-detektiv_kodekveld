@@ -16,8 +16,8 @@ pass på! https://www.tylervigen.com/spurious-correlations
 3. Andre variabler:
 Hva slags datatyper er er_leder og favorittfarge? Hvordan vil du inkludere disse i analysen? 
 
-4. Simpsons paradox:  
-Finn sammenhengen mellom lønn og ansiennitet per avdeling. Er simpsons paradoks gjeldende? 
+4. Simpsons paradoks:  
+Finn sammenhengen mellom lønn og ansiennitet per avdeling. Er Simpsons paradoks gjeldende? 
 
 🥇 Konkurrase-del <br>
 5. Bygg en enkel regresjon:  
