@@ -1,13 +1,10 @@
-# data-detektiv_kodekveld
-
-Repo for kodekveld i Bouvet https://event.bouvet.no/event/e020398f-d768-445e-8933-7e874211aa28
-
-
+# Velkommen til data-detektiv_kodekveld!
+Vi bruker denne kvelden på å legge vekt på det ekte data-detektiver alltid gjør først: undersøke åstedet, forstå sporene og finne ut hva dataene faktisk prøver å fortelle oss. Først når vi har god kunnskap om datasettet går vi videre til konkurranse-delen. 
 
 🔍 Datadetektivens oppgaver: <br> <br>
 Analyser datasettet dette datasettet med lønnsstatistikk:  https://raw.githubusercontent.com/jensmorten/data-detektiv_kodekveld/refs/heads/main/data/data2.csv
 <br> <br>
-Bruk det verktøyet du selv er best kjent med. 
+Oppgavene kan løses i Excel, Python eller hvilket som helst verktøy du er komfortabel med. 
 <br> <br>
 1. Beskrivende statistikk:  
 Beregn gjennomsnitt, median og standardavvik for "alder", "lonn", "utdanning", "ansiennitet", "sko_str","prestasjonsscore", og lag histogrammer. Finnes det noen uvanlige verdier?
@@ -23,7 +20,6 @@ Hva slags datatyper er er_leder og favorittfarge? Hvordan vil du inkludere disse
 Finn sammenhengen mellom lønn og ansiennitet per avdeling. Er simpsons paradoks gjeldende? 
 
 🥇 Konkurrase-del <br>
-
 5. Bygg en enkel regresjon:  
 Bygg en lineær regresjonsmodell som predikerer lønn. Hvilke forklaringsvariabler velger du? Fjerner du noen datapunkt?
 
@@ -38,3 +34,6 @@ Følg med på https://datadetektivkodekveld.streamlit.app/ for vinnaren. 🏇
 
 6. (ekstra)
 Bygg en avansert modell som predikerer lønn. 
+
+---- 
+Event: https://event.bouvet.no/event/e020398f-d768-445e-8933-7e874211aa28
