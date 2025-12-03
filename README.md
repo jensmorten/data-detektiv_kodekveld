@@ -23,7 +23,11 @@ Finn sammenhengen mellom lønn og ansiennitet per avdeling. Er simpsons paradoks
 🥇 Konkurrase-del <br>
 
 5. Bygg en enkel regresjon:  
-Bygg en lineær regresjonsmodell som predikerer lønn. Hvilke forklaringsvariabler velger du? Lever inn din .csv-fil med prediksjoner. 
+Bygg en lineær regresjonsmodell som predikerer lønn. Hvilke forklaringsvariabler velger du? Fjerner du noen datapunkt?
+
+Bruk modellen til å lage prediksjoner på test-datasett (som ikke inneholder lønn): https://github.com/jensmorten/data-detektiv_kodekveld/blob/main/data/test_set.csv
+
+Lever inn din .csv-fil med prediksjoner. 
 Bruk gjerne notebooken compete.ipynb (https://github.com/jensmorten/data-detektiv_kodekveld/blob/main/notebooks/Compete.ipynb) for å se et eksempel du kan bygges videre på.
 
 Se predictions.csv (https://github.com/jensmorten/data-detektiv_kodekveld/blob/main/compeval/predictions.csv) for å undersøke formatet som må leveres. To kolonner "id" og "lonn", komma-separarert. "." er desimalskilletegn
