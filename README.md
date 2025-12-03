@@ -4,7 +4,9 @@ Repo for kodekveld i Bouvet https://event.bouvet.no/event/e020398f-d768-445e-893
 
 
 
-🔍 Datadetektivens oppgaver
+🔍 Datadetektivens oppgaver 
+Analyser datasetetet 
+
 1. Beskrivende statistikk:  
 Beregn gjennomsnitt, median og standardavvik for alder og lønn, og lag histogrammer. Finnes det noen uvanlige verdier?
 
