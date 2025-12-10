@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 import os
 import io
 
-pred_path = "predictions.csv"
+pred_path = "predictions_store_sko.csv"
 fasit_enc_path = "test_fasit.enc"
 
 
