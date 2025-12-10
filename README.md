@@ -36,11 +36,13 @@ Følg med på https://datadetektivkodekveld.streamlit.app/ for vinnaren. 🏇
 Bygg en avansert modell som predikerer lønn. 
 
 ---- 
-Event: https://event.bouvet.no/event/e020398f-d768-445e-8933-7e874211aa28
+### Event: https://event.bouvet.no/event/e020398f-d768-445e-8933-7e874211aa28
 ----
-# Oppsett av python på windows (valgfritt):
+### Oppsett av python på windows (valgfritt):
 
-* Download WinPython and extract the files to a folder of your choice. https://winpython.github.io/
-* Open the extracted folder and run WinPython Command Prompt.exe.
-* Navigate to your GitHub folder with the exercise by typing cd C:\[....]\GitHub\data-detektiv_kodekveld\notebooks\.
-* Type "jupyter notebook" to start Jupyter Notebooks. Select notebook "Compete" in the browser window that opens.
+* Last ned WinPython og pakk ut filene til en mappe du velger: https://winpython.github.io/
+* Åpne den utpakkede mappen og kjør WinPython Command Prompt.exe.
+* Naviger til GitHub-mappen med oppgaven ved å skrive cd C:\[....]\GitHub\data-detektiv_kodekveld\notebooks\
+* Skriv jupyter notebook for å starte Jupyter Notebook.
+* Velg notatboken «Compete» i nettleservinduet som åpnes.
+* Velg Run → Run all cells i toppmenyen for å forsikre deg om at eksempelet fungerer.
