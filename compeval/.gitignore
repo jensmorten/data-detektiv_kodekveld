@@ -3,6 +3,8 @@
 
 # Sensitive data
 test_fasit.csv
+predictions_a.csv
+predictions_d.csv
 
 # Python cache
 __pycache__/
