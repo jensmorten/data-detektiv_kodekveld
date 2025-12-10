@@ -39,7 +39,8 @@ Bygg en avansert modell som predikerer lønn.
 Event: https://event.bouvet.no/event/e020398f-d768-445e-8933-7e874211aa28
 ----
 # Oppsett av python på windows (valgfritt):
-Download WinPython and extract the files to a folder of your choice. https://winpython.github.io/
-Open the extracted folder and run WinPython Command Prompt.exe.
-Navigate to your GitHub folder with the exercise by typing cd C:\[....]\GitHub\data-detektiv_kodekveld\notebooks\.
-Type "jupyter notebook" to start Jupyter Notebooks. Select notebook "Compete" in the browser window that opens.
+
+* Download WinPython and extract the files to a folder of your choice. https://winpython.github.io/
+* Open the extracted folder and run WinPython Command Prompt.exe.
+* Navigate to your GitHub folder with the exercise by typing cd C:\[....]\GitHub\data-detektiv_kodekveld\notebooks\.
+* Type "jupyter notebook" to start Jupyter Notebooks. Select notebook "Compete" in the browser window that opens.
